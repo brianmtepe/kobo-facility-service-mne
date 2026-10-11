@@ -1,0 +1,13 @@
+check,failed_records,status
+Required fields,0,PASS
+OPD range,0,PASS
+ANC range,0,PASS
+PNC range,0,PASS
+Immunization range,0,PASS
+Referral range,0,PASS
+Referrals <= OPD,0,PASS
+Stockout days valid,0,PASS
+Reporting date not future,0,PASS
+Total contacts calculation,0,PASS
+Referral rate calculation,0,PASS
+Stockout flag calculation,0,PASS

@@ -1,0 +1,16 @@
+facility_name,facility_level,county,reporting_period,opd_visits,anc_visits,pnc_visits,immunization_visits,referrals,stockout_occurred,product_affected,stockout_days,reporting_completed,missing_registers,missing_register_types,verification_completed,total_service_contacts,referral_rate,stockout_flag
+Coast General Test Facility,level_5,mombasa,2026-01-31,1800,320,210,650,90,no,,,yes,no,,yes,2980,5.0,0
+Likoni Test Health Center,level_3,mombasa,2026-01-31,850,180,120,300,45,yes,amoxicillin,5.0,yes,no,,yes,1450,5.294117647058823,1
+Kilifi Central Test Facility,level_4,kilifi,2026-02-28,1400,260,175,520,80,no,,,yes,no,,yes,2355,5.714285714285714,0
+Malindi Test Hospital,level_4,kilifi,2026-02-28,2200,410,280,700,140,yes,paracetamol,8.0,yes,yes,"OPD Register, ANC Register, PNC Register, Immunization Register, Pharmacy Register",no,3590,6.363636363636363,1
+Kwale Subcounty Test Facility,level_3,kwale,2026-03-31,950,210,145,380,55,no,,,yes,no,,yes,1685,5.789473684210527,0
+Msambweni Test Facility,level_4,kwale,2026-03-31,1250,300,190,450,100,yes,artemether_lumefantrine,12.0,yes,no,,yes,2190,8.0,1
+Taita Test Hospital,level_4,taita_taveta,2026-04-30,1100,230,150,400,65,no,,,yes,no,,yes,1880,5.909090909090909,0
+Voi Test Health Center,level_3,taita_taveta,2026-04-30,720,160,105,280,40,yes,ors,3.0,yes,no,,yes,1265,5.555555555555555,1
+Nakuru Test Hospital,level_5,nakuru,2026-05-31,2600,500,350,850,180,no,,,yes,no,,yes,4300,6.923076923076923,0
+Naivasha Test Facility,level_4,nakuru,2026-05-31,1750,340,220,600,125,yes,zinc,7.0,yes,no,,yes,2910,7.142857142857142,1
+Nairobi Test Hospital,level_6,nairobi,2026-06-30,4200,700,500,1100,300,no,,,yes,no,,yes,6500,7.142857142857142,0
+Embakasi Test Facility,level_3,nairobi,2026-06-30,1000,190,130,350,70,yes,oxytocin,10.0,no,yes,"OPD Register, ANC Register, PNC Register, Immunization Register, Pharmacy Register",no,1670,7.000000000000001,1
+Mombasa Community Test Facility,level_2,mombasa,2026-07-31,450,90,60,170,20,no,,,yes,no,,yes,770,4.444444444444445,0
+Kilifi Rural Test Facility,level_2,kilifi,2026-07-31,600,130,85,250,35,yes,amoxicillin,4.0,yes,yes,"OPD Register, ANC Register, PNC Register, Immunization Register, Pharmacy Register",yes,1065,5.833333333333333,1
+Kwale Rural Test Facility,level_2,kwale,2026-08-31,500,115,70,210,25,no,,,yes,no,,yes,895,5.0,0
